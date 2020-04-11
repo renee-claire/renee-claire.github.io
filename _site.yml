@@ -1,0 +1,24 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Projects"
+      href: projects.html
+    - text: "Resume"
+      href: "CV/Comfort_CV_Feb_2020.pdf"
+      external: true
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/renee.comfort.9
+    - icon: fa-linkedin-square fa-lg
+      href: https://www.linkedin.com/in/renee-comfort/ 
+    - icon: fa-instagram fa-lg
+      href: https://www.instagram.com/renee_comfort/
+    - icon: fa-pinterest fa-lg
+      href: https://www.pinterest.com/reneecomfort/    
+    - icon: fa-envelope-o fa-lg
+      href: mailto:<rcomfort@student.framingham.edu>
+
+output:
+  html_document:
+    theme: journal
