@@ -1,0 +1,21 @@
+---
+title: "Publications"
+---
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicons-1.8.6/css/academicons.min.css"/>
+
+<br>
+
+## Peer-reviewed Articles
+
+Yarychkivska, O., Shahabudhin, Z., **Comfort, N.**, Boulard, M., Bestor, T.H. BAH domains and a histone-like motif regulate DNMT1 in vivo. 2018. J. Biol. Chem., 293(50): 19466-19475. doi: 10.1074/jbc.RA118.004612. [PDF](papers/comfort-j biol chem.pdf){target="_blank"} 
+ 
+McCampbell A., Cole T., Wegener A.J., Tomassy G.S., Setnicka A., Farley B.J., Schoch K.M., Hoye M.L., Shabsovich M., Sun L., Luo Y., Zhang M., Thankamony S., Salzman D.W., Cudkowicz M., Graham D.L., Bennett C.F., Kordasiewicz H.B., Swayze E.E., Miller T.M., **Comfort N.**, Wang B., Amacker J. Antisense oligonucleotides extend survival and reverse decrement in muscle response in ALS models. 2018. J Clin Invest. 1;128(8): 3558-3567. doi: 10.1172/JCI99081. [PDF](papers/comfort-j clin invest.pdf){target="_blank"} 
+ 
+**Comfort, N.**, Re, D.B. Sex-specific neurotoxic effects of organophosphate pesticides across the life course. 2017. Curr Environ Health Rep, 4(4): 392-404. [PDF](papers/comfort-curr env hlth rpt.pdf){target="_blank"} 
+ 
+Qiang, L., Rao, A.N., Mostoslavsky, G., James, M.F., **Comfort, N.**, Sullivan, K., Baas, P.W. Reprogramming cells from Gulf War veterans into neurons to study Gulf War Illness. 2017. Neurology, 88(20): 1968-1975. [PDF](papers/comfort-neuurology.pdf){target="_blank"} 
+
+Click [here](https://www.ncbi.nlm.nih.gov/myncbi/1v5L4VkrjtH55/bibliography/public/) for a full bibliography. 
+
+<br>
