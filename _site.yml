@@ -18,7 +18,7 @@ navbar:
       href: https://www.pinterest.com/reneecomfort/    
     - icon: fa-envelope-o fa-lg
       href: mailto:<rcomfort@student.framingham.edu>
-
+ 
 output:
   html_document:
     theme: journal
